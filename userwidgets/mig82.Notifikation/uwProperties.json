@@ -1,0 +1,82 @@
+{
+    "classname": "Notifikation",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "ddb5c6c0e3e2425ab07a6aec8d1125d5",
+                    "paramList": [],
+                    "propertyKey": "preShow",
+                    "pw": {
+                        "displayName": "preShow",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "c310b2015ce04dab91a320a68c75bccd",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [
+                "Appearance",
+                "Value"
+            ],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "Appearance",
+                    "kuid": "d8f42cdf63904d7392ebd151150822ca",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 1,
+                    "propertyKey": "bubbleSkin",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Bubble Skin",
+                        "srcWidget": "flexBubble",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "da32cebac72c488ab3e2c89ed2310c85"
+                },
+                {
+                    "access": "Enable",
+                    "group": "Appearance",
+                    "kuid": "id757d349eb8472c98c1a4a401e27ee1",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 2,
+                    "propertyKey": "iconSkin",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Skin",
+                        "srcWidget": "imageLabel",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "f1b653e154fc4f658126989e83411d3b"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "mig82",
+    "version": "1.0.0"
+}

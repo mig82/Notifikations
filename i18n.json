@@ -1,0 +1,133 @@
+{
+    "keys": [
+        "action.login",
+        "action.request.loan",
+        "label.create.account",
+        "label.email",
+        "label.password",
+        "message.loan.requested",
+        "title.accounts",
+        "title.bank.name",
+        "title.cards",
+        "title.goals",
+        "title.loans",
+        "title.loans.a",
+        "title.loans.b",
+        "title.notifications",
+        "title.payments",
+        "title.settings",
+        "title.welcome.back.female",
+        "title.welcome.back.male",
+        "tx.ADJUSTMENT",
+        "tx.DEPOSIT",
+        "tx.INTEREST_APPLIED",
+        "tx.WITHDRAWAL",
+        "tx.WITHDRAWAL_ADJUSTMENT"
+    ],
+    "locales": {
+        "en_GB": {
+            "i18nStrings": {
+                "action.login": "Log In",
+                "action.request.loan": "Submit",
+                "label.create.account": "Open an account",
+                "label.email": "e-mail",
+                "label.password": "Password",
+                "message.loan.requested": "Great! Your loan for {currency} {amount} is approved!",
+                "title.accounts": "Accounts",
+                "title.bank.name": "Belfius",
+                "title.cards": "Cards",
+                "title.goals": "Goals",
+                "title.loans": "Loans",
+                "title.loans.a": "Loans A",
+                "title.loans.b": "Loans B",
+                "title.notifications": "Notifications",
+                "title.payments": "Payments",
+                "title.settings": "Settings",
+                "title.welcome.back.female": "Welcome back",
+                "title.welcome.back.male": "Welcome back",
+                "tx.ADJUSTMENT": "Adjustment",
+                "tx.DEPOSIT": "Deposit",
+                "tx.INTEREST_APPLIED": "Interest applied",
+                "tx.WITHDRAWAL": "Cash withdrawal",
+                "tx.WITHDRAWAL_ADJUSTMENT": "Withdrawal adjustment"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        },
+        "es_ES": {
+            "i18nStrings": {
+                "action.login": "Entrar",
+                "action.request.loan": "Contratar",
+                "label.create.account": "Abre una cuenta",
+                "label.email": "Correo electrónico",
+                "label.password": "Contraseña",
+                "message.loan.requested": "¡Tu préstamo por {currency} {amount} ha sido aprobado!",
+                "title.accounts": "Cuentas",
+                "title.bank.name": "Belfius",
+                "title.cards": "Tarjetas",
+                "title.goals": "Objetivos",
+                "title.loans": "Préstamos",
+                "title.loans.a": "Préstamos A",
+                "title.loans.b": "Préstamos B",
+                "title.notifications": "Notificaciones",
+                "title.payments": "Pagos",
+                "title.settings": "Configuraciones",
+                "title.welcome.back.female": "Bienvenida de vuelta",
+                "title.welcome.back.male": "Bienvenido de vuelta",
+                "tx.ADJUSTMENT": "Ajuste",
+                "tx.DEPOSIT": "Ingreso de efectivo",
+                "tx.INTEREST_APPLIED": "Intereses devengados",
+                "tx.WITHDRAWAL": "Retirada de efectivo",
+                "tx.WITHDRAWAL_ADJUSTMENT": "Ajuste de retirada de efectivo"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        },
+        "xx_YY": {
+            "country": "None",
+            "i18nStrings": {
+                "action.login": "action.login",
+                "action.request.loan": "action.request.loan",
+                "label.create.account": "label.create.account",
+                "label.email": "label.email",
+                "label.password": "label.password",
+                "message.loan.requested": "message.loan.requested",
+                "title.accounts": "title.accounts",
+                "title.bank.name": "title.bank.name",
+                "title.cards": "title.cards",
+                "title.goals": "title.goals",
+                "title.loans": "title.loans",
+                "title.loans.a": "title.loans.a",
+                "title.loans.b": "title.loans.b",
+                "title.notifications": "title.notifications",
+                "title.payments": "title.payments",
+                "title.settings": "title.settings",
+                "title.welcome.back.female": "title.welcome.back.female",
+                "title.welcome.back.male": "title.welcome.back.male",
+                "tx.ADJUSTMENT": "tx.ADJUSTMENT",
+                "tx.DEPOSIT": "tx.DEPOSIT",
+                "tx.INTEREST_APPLIED": "tx.INTEREST_APPLIED",
+                "tx.WITHDRAWAL": "tx.WITHDRAWAL",
+                "tx.WITHDRAWAL_ADJUSTMENT": "tx.WITHDRAWAL_ADJUSTMENT"
+            },
+            "isCustomLocale": true,
+            "isSelected": true,
+            "language": "i18n keys",
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        }
+    }
+}
